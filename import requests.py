@@ -4,8 +4,8 @@ import telebot
 import telegram
 import asyncio
 
-bot_token = '6524715616:AAGqmU9cbenkFnENoPnbnybtZLQnBvqsZZY'
-bot_chat_id = '@scrape_2368'
+bot_token = ''
+bot_chat_id = '@'
 bot = telebot.TeleBot(bot_token)
 bot2 = telegram.Bot(token=bot_token)
 
